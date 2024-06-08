@@ -9,16 +9,20 @@ public class APP {
         Equation fx = new Equation();
         
         
+        // call function
         
         // CheckYear.CheckLeapYear();
-        tinh.CalculatorInteger();
+        //tinh.CalculatorInteger();
         // maxNumber.FindMaxInteger();
+        
+        // call function
         
         
         
         
         
         //input value for fx.CalculateQuadratic
+        
         // System.out.println("cho pt dang :: ax^2 + bx + c = 0");
         // System.out.print("?x^2 + ?x + ? = 0  <== ");
         // int a = nhapint.InputInt();
@@ -29,6 +33,7 @@ public class APP {
 
         // int c = nhapint.InputInt();
         // System.out.printf("%dx^2 + %dx + %d = 0",a,b,c);
+        
         //input value for fx.CalculateQuadratic
 
 
