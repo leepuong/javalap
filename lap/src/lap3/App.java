@@ -8,7 +8,6 @@ public class App {
         int n = scanner.nextInt();
         Calculator caluc1 = new Calculator();
         // System.out.println("tong la "+caluc1.calculateSum());
-
         // System.out.println("\ntong la "+caluc1.calculateSumofProduct(n));
         caluc1.printPrimeFactors(n);
     }
